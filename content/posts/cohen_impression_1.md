@@ -4,45 +4,60 @@ date: 2014-06-28
 title: 科恩印象
 ---
 
-
-
-
+<img src="img\cohen1.jpg" alt="Leonard Cohen" />
 
 听说Leonard Cohen影响了Suzanne Vega，才知道有这么一号。不过，远在读到歌词，对他有所了解之前，就听到他的歌，听到只言片语并有了对他的印象。那是独守空房一些下午，听到的句子是：
 
-> You told me again you preferred handsome men<br>
-> 你又对我说你偏爱英俊男人<br>
-> But for me you would make an exception.<br>
+> You told me again you preferred handsome men
+>
+> 你又对我说你偏爱英俊男人
+>
+> But for me you would make an exception.
+>
 > 但对我，你愿意破一次例
 
-> You fixed yourself, you said, Well never mind,<br>
-> 你妆扮好，说“好了，没关系<br>
-> we are ugly but we have the music.<br>
+> You fixed yourself, you said, Well never mind,
+>
+> 你妆扮好，说“好了，没关系
+>
+> we are ugly but we have the music.
+>
 > 我们丑，但我们有音乐”
 
 这彻底颠覆了我认为诗歌意象是描绘出来的观念。他没有描绘他或她，而只是剪接她了说的话。简单突兀的几句话剪接，就描绘出了清晰的意象。Cohen的意象冲淡了Paul Simon，而Simon曾冲淡了我从前印象中所有的文学意象。我不知道为什么，也不想为什么，我以为自己挺酷，却并未意识到是在文化观念的大潮中随波逐流。直到开始钻研Bob Dylan，钻研解脱了文化观念的束缚，尤其是自身所处的文化影响。再回头来听Leonard Cohen，才清楚地意识到Cohen意象的魅力是一种漩涡般的吸引力，而吸引源其实是情欲，是所谓源自人性本能的诱惑。Cohen最具诱惑力的句子是那些指向情欲的。
 
 我是说情欲，而不是情爱。区别是什么？Cohen意境中男女关系描绘的尺度大过所有其他歌手。前文中给我深刻印象的偏爱英俊男人那几句，出自歌曲Chelsea Hotel #2，它直接描写的是露骨的性关系：
 
-> Giving me head on the unmade bed,<br>
+> Giving me head on the unmade bed,
+>
 > 在零乱的床上你为我口交
 
 不好说其他歌手放开了写，意境能不能写得这么魅惑，反正Cohen写得露骨为他的词句增色不少。歌曲Take This Waltz描摹的虽是华尔兹的魅力，他同样会用情色来调动：
 
-> The hyacinth wild on my shoulder,<br>
-> 风信子在你的肩头狂舞<br>
-> My mouth on the dew of your thighs<br>
+> The hyacinth wild on my shoulder,
+>
+> 风信子在你的肩头狂舞
+>
+> My mouth on the dew of your thighs
+>
 > 我吸吮你大腿上的露珠
 
 歌曲Paper Thin Hotel更是将隔墙听淫声写了个详细：
 
-> The walls of this hotel are paper-thin<br>
-> 这旅馆的墙像纸一样薄<br>
-> Last night I heard you making love to him<br>
-> 昨晚我听到你与他做爱<br>
-> The struggle mouth to mouth and limb to limb<br>
-> 搏斗从口唇发展到肢体<br>
-> The grunt of unity when he came in<br>
+> The walls of this hotel are paper-thin
+>
+> 这旅馆的墙像纸一样薄
+>
+> Last night I heard you making love to him
+>
+> 昨晚我听到你与他做爱
+>
+> The struggle mouth to mouth and limb to limb
+>
+> 搏斗从口唇发展到肢体
+>
+> The grunt of unity when he came in
+>
 > 当他介入时呻吟声合一
 
 > I listened to your kisses at the door<br>

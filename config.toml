@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "《街头彩虹》"
+title = "草稿"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -33,11 +33,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Metadata mostly used in document's head
   # description = ""
-   images = ["bg.png"]
+  # images = ["bg.png"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "只是不想用手机观察、记录和思考。"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  homeSubtitle = "留下飞鸟的痕迹"
+  footerCopyright = ' &#183; <a href="https://weibo.com/balalaikax/" target="_blank" rel="noopener">weibo.com/balalaikax</a>'
    bgImg = "bg.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
