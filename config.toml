@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = ["bg.png"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "留下飞鸟的痕迹"
+  homeSubtitle = "泥上偶然留指爪"
   footerCopyright = ' &#183; <a href="https://weibo.com/balalaikax/" target="_blank" rel="noopener">weibo.com/balalaikax</a>'
    bgImg = "bg.jpg"  # Homepage background-image URL
 
