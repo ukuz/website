@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "草稿"
+title = "草✽稿"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -70,11 +70,21 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "文章"
-    url = "posts/"
-    weight = 10
+    name = "◈简介"
+    url = "about/"
+    weight = 1
 
   [[menu.main]]
-    name = "简介"
-    url = "about/"
-    weight = 10
+    name = "指爪录"
+    url = "指爪录/"
+    weight = 2
+
+  [[menu.main]]
+    name = "碎钩集"
+    url = "碎钩集/"
+    weight = 3
+
+  [[menu.main]]
+    name = "青梅集"
+    url = "青梅集/"
+    weight = 5
