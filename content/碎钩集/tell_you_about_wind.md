@@ -3,8 +3,7 @@ author: "弓枚"
 date: 2015-06-06
 title: 我来告诉你关于风的信息
 ---
-
-![Bob Dylan](img\dylan1.jpg)
+![Bob Dylan](img/dylan1.jpg)
 
 关于Blowin' in the Wind误解实在太多，我想多罗列一些确凿的信息，稍做一些基本的分析比较。
 
