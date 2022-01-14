@@ -1,17 +1,18 @@
 +++
 title = "简介"
-date = "2014-04-09"
+date = "2022-01-14"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+我不反对言行约束，我厌恶被蠢人约束。
 
-It makes use of a variety of open source projects including:
+我同意莫谈国事，我本来就不感兴趣，但我听不得蠢人夸夸其谈，贼人跋扈嚣张，反嘴者只能用谐音梗且乐此不疲。谐音梗改造了时代语言，语言不仅污染视听，更让沐浴其中的所有人思维方式带有便秘的症候。
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+我感兴趣能让我愉悦的事，我做我能做的事。当你不再关心他们骗着你感兴趣做的事之后，你会发现有更多感兴趣且可以做的事，包括可以不做的事。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+自从1983年夏季开始，我就再也没有去过理发店，因为觉得这是我生活中最荒谬频仍的买卖：你花钱受人摆布。（升级版是花钱少而受人摆布。）
 
+你固然摆脱不了重力的摆布，但只要还能意识到被摆布的命运，就总能发现无穷的解脱。
+
+我可以付出身心，但你拿不走灵魂。
+
+我的灵魂打这里飞过。
