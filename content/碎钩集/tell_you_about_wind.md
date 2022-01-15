@@ -5,6 +5,8 @@ title: 我来告诉你关于风的信息
 ---
 ![Bob Dylan](img/dylan1.jpg)
 
+{{< figure src**=**"img/dylan1.jpg" title**=**"Bob Dylan" >}}
+
 关于Blowin' in the Wind误解实在太多，我想多罗列一些确凿的信息，稍做一些基本的分析比较。
 
 ## 创作时间和背景
